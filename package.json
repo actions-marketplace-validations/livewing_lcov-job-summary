@@ -33,7 +33,7 @@
     "@tsconfig/strictest": "^2.0.1",
     "@types/lcov-parse": "^1.0.0",
     "@types/node": "^20.2.5",
-    "@vercel/ncc": "^0.36.1",
+    "@vercel/ncc": "^0.38.4",
     "better-typescript-lib": "^2.3.1",
     "eslint": "^8.41.0",
     "husky": "^8.0.3",
